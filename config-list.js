@@ -71,10 +71,33 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCOOzVNnAm0z6v1ImCftzWnw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+
+  
+  // ====== 以上 10 個 ========
+
+  
   {
-    title: '肥宅MS',
+    title: '肥宅MS 聊 同人本',
     feedID: 'otakumsvideo',
     homepageURL: 'https://www.youtube.com/channel/UCBOBS5RdHd2Owytoj4PqPqA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '孫沁岳 聊 ACG',
+    feedID: 'yorke',
+    homepageURL: 'https://www.youtube.com/channel/UCD114v8IMP5HWSUXrIJlJuQ',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '科技狗 3C Dog 評 3C',
+    feedID: '3cdogs',
+    homepageURL: 'https://www.youtube.com/channel/UC5r-9EMDERXlUni-UWAtTdg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '回到Axton 聊 AI',
+    feedID: 'axtonliu',
+    homepageURL: 'https://www.youtube.com/channel/UCBj9S8TBRlCU4QnhTEOdWZQ',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   
