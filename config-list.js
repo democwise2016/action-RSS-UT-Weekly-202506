@@ -53,6 +53,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCAQmUESq4GxO1b_iBCrYlTA',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: 'cheap 講 歷史',
+    feedID: 'cheapaoe',
+    homepageURL: 'https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
 
   
 ]
