@@ -59,7 +59,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCGGrblndNzi86WY5lJkQJiA',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
-
+  {
+    title: '優尼客空間設計 講 居家',
+    feedID: 'unique-design',
+    homepageURL: 'https://www.youtube.com/channel/UCf0mBuLbLy0gRnsptllxSUg',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   
 ]
 
