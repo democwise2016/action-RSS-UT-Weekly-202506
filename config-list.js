@@ -4,9 +4,15 @@ const CONFIG = require('../config-json.js')
 let feedList = [
   {
     title: '神奇買家 買東西',
-    feedID: 'SurpriseBuyer',
+    feedID: 'Huzi',
     homepageURL: 'https://www.youtube.com/channel/UCjL1ratS2reFUKJra9Ahd2w',
     // itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
+  {
+    title: '胡子Huzi',
+    feedID: 'SurpriseBuyer',
+    homepageURL: 'https://www.youtube.com/channel/UC9YOQFPfEUXbulKDtxeqqBA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
   
 
