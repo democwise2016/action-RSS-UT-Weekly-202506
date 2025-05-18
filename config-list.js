@@ -71,6 +71,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCOOzVNnAm0z6v1ImCftzWnw',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '肥宅MS',
+    feedID: 'otakumsvideo',
+    homepageURL: 'https://www.youtube.com/channel/UCBOBS5RdHd2Owytoj4PqPqA',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   
 ]
 
