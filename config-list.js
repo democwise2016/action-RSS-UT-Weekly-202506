@@ -65,6 +65,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCf0mBuLbLy0gRnsptllxSUg',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: '平民遊戲工作室 玩 遊戲',
+    feedID: 'OGS_Yuki',
+    homepageURL: 'https://www.youtube.com/channel/UCOOzVNnAm0z6v1ImCftzWnw',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   
 ]
 
