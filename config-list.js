@@ -100,6 +100,12 @@ let feedList = [
     homepageURL: 'https://www.youtube.com/channel/UCBj9S8TBRlCU4QnhTEOdWZQ',
     itemFilters: ItemFiltersPreset.between3minTo30Min,
   },
+  {
+    title: 'migun 米柑 聊 ACG八卦',
+    feedID: 'migun030',
+    homepageURL: 'https://www.youtube.com/channel/UCHXLU4JyS2uDL2dy9QG159g',
+    itemFilters: ItemFiltersPreset.between3minTo30Min,
+  },
   
 ]
 
